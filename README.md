@@ -1,0 +1,1 @@
+ http://localhost/tecnostock_proyecto/. Usuario local admin@tecnostock.local, clave de prueba Tecno2026. 
